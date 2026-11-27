@@ -24,6 +24,17 @@ Core Skills
 - Guideline Compliance
 - Critical Thinking and Problem Solving
 
+
+## Technical Skills
+
+![AI Evaluation](https://img.shields.io/badge/AI-Evaluation-6A5ACD)
+![Data Annotation](https://img.shields.io/badge/Data-Annotation-2563EB)
+![Speech to Speech](https://img.shields.io/badge/Speech--to--Speech-Evaluation-7C3AED)
+![Audio Transcription](https://img.shields.io/badge/Audio-Transcription-0891B2)
+![Data Collection](https://img.shields.io/badge/Data-Collection-0D9488)
+![Quality Assurance](https://img.shields.io/badge/Quality-Assurance-16A34A)
+
+
 Professional Experience
 
 Outlier AI
