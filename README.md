@@ -93,6 +93,19 @@ Professional Approach
 
 I value consistency, accuracy, analytical thinking, adaptability, and continuous learning. I am interested in contributing to AI training and evaluation projects that improve language models and speech technologies.
 
+
+## Contact & Availability
+
+- **Location:** Salvador, Bahia, Brazil
+- **Work Preference:** Remote Opportunities
+- **Availability:** Open to International AI Projects
+- **Areas of Interest:** AI Evaluation, Data Annotation, Portuguese Transcription, Speech-to-Speech Evaluation.
+
+### Contact
+
+- **Email:** brenosousabrito@gmail.com
+- **GitHub:** [BrenoAzuos](https://github.com/BrenoAzuos)
+- 
 ---
 
 This portfolio includes original demonstrations created for professional presentation. Examples do not disclose confidential client information or proprietary project materials.
