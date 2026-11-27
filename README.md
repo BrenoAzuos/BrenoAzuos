@@ -1,3 +1,4 @@
+![Breno Brito Souza](./file_00000000ed08820ea5a1003bc388ce2e.png)
 Breno Brito Souza
 
 AI Data Evaluator | Portuguese Transcription | Speech-to-Speech Evaluation | Data Collection
