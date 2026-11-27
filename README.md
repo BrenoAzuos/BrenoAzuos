@@ -47,25 +47,26 @@ Portfolio Projects
 
 Demonstration of structured AI response evaluation, model comparison, and quality analysis.
 
-"View Project" (https://github.com/BrenoAzuos/ai-response-evaluation)
+[View Project →](https://github.com/BrenoAzuos/ai-response-evaluation)
 
 2. Portuguese Audio Transcription
 
 Examples of Brazilian Portuguese transcription, timestamping, speaker identification, and annotation.
 
-"View Project" (https://github.com/BrenoAzuos/portuguese-audio-transcription)
+[View Project →](https://github.com/BrenoAzuos/portuguese-audio-transcription)
 
 3. Data Collection & Validation
 
 Demonstration of data organization, validation criteria, error detection, and quality control.
 
-"View Project" (https://github.com/BrenoAzuos/data-collection-and-validation)
+[View Project →](https://github.com/BrenoAzuos/data-collection-and-validation)
 
 4. Speech-to-Speech Evaluation
 
 Demonstration of audio quality assessment, naturalness, pronunciation, fluency, and model comparison.
 
-"View Project" (https://github.com/BrenoAzuos/speech-to-speech-evaluation)
+[View Project →](https://github.com/BrenoAzuos/speech-to-speech-evaluation)
+
 
 Education
 
