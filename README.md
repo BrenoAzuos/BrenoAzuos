@@ -105,7 +105,6 @@ I value consistency, accuracy, analytical thinking, adaptability, and continuous
 
 - **Email:** brenosousabrito@gmail.com
 - **GitHub:** [BrenoAzuos](https://github.com/BrenoAzuos)
-- 
 ---
 
 This portfolio includes original demonstrations created for professional presentation. Examples do not disclose confidential client information or proprietary project materials.
